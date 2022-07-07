@@ -6,7 +6,7 @@ CREATE A NEW REPOSITORY ON THE COMAND LINE
     git add .
     git commit -m "first commit"
     git branch -M main
-    git remote add origin https://github.com/joabediias/linktree
+    git remote add origin https://github.com/joabediias/linktree    
     git push -u origin main
 
 PUSH AN EXISTING REPOSITORY FROM THE COMAND LINE
