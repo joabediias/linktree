@@ -23,7 +23,13 @@ body {
 
 .root {
     position: relative;
-    width: 100%;
+    min-width: 100%;
+}
+
+main.body-content {
+    /** Altura do rodapé tem que ser igual a isso aqui e vice-versa **/
+    padding-bottom: 100px;
+
 }
 
 a {
@@ -132,14 +138,11 @@ div.card-container {
 footer {
     bottom: 0;
     position: absolute;
-    width: 90%;
+    width: 100%;
+    height: 50px;
     text-align: center;
     line-height: 10px;
-}
-
-.space-100 {
-    display: inline-flex;
-    padding-top: 100px;
+    display: inline;
 }
 
 p.footer-fixed {
