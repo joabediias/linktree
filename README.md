@@ -1,5 +1,5 @@
 BREFING
-    Aplicação destinada a arvóre de links da RJ Moda Feminina.
+    Aplicação destinada a arvóre de links.
 
 CREATE A NEW REPOSITORY ON THE COMAND LINE 
     git init
